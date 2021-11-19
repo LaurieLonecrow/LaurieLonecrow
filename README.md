@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome
+- I am currently working on this README file ... 🤔
+
+
+### Thanks for stopping by!
+
+
+
 
 <!--
 **LaurieLonecrow/LaurieLonecrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
