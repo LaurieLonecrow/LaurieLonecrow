@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/lonecrow/image/upload/v1637427232/messagif_etekae.gif" width="100%" height="400">
+<img src="https://res.cloudinary.com/lonecrow/image/upload/v1637427232/messagif_etekae.gif" width="100%" height="40%">
 
 
 <!--
